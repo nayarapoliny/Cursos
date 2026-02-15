@@ -1,0 +1,6 @@
+info1 = input()
+info2 = input()
+
+resultado = info1 + " " + info2
+
+print(resultado)

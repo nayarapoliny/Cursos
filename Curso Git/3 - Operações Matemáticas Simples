@@ -1,0 +1,9 @@
+# Recebe os dois números do usuário
+num1 = int(input())
+num2 = int(input())
+
+# Realiza a operação (neste caso, soma)
+resultado = num1 + num2
+
+# Exibe o resultado
+print(resultado)
