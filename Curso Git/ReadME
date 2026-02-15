@@ -1,0 +1,28 @@
+# 🐍 Desafios de Código - Python (DIO)
+
+Este repositório contém as soluções dos desafios práticos propostos durante o curso de lógica de programação. Os scripts foram desenvolvidos para exercitar conceitos fundamentais como manipulação de dados, estruturas de repetição e operações matemáticas.
+
+## 🚀 Desafios Realizados
+
+### 1. Concatenando Dados
+* **O que faz:** Recebe dois dados distintos do usuário e os combina em uma única frase ou valor.
+* **Conceito aplicado:** Manipulação de Strings e entrada de dados (`input`).
+
+### 2. Repetindo Textos
+* **O que faz:** Solicita uma string e um número inteiro, repetindo o texto a quantidade de vezes informada.
+* **Conceito aplicado:** Operadores de repetição e tipos de dados.
+
+### 3. Operações Matemáticas Simples
+* **O que faz:** Realiza cálculos básicos entre dois números inseridos pelo usuário.
+* **Conceito aplicado:** Operadores aritméticos (+, -, *, /) e conversão de tipos (`int`/`float`).
+
+## 🛠️ Tecnologias Utilizadas
+* Python 3
+* Git & GitHub
+
+## 📂 Como executar
+Para rodar qualquer um dos desafios, certifique-se de ter o Python instalado e execute no terminal:
+```bash
+python "nome_do_arquivo.py"
+
+🔹 Desenvolvido por Nay
